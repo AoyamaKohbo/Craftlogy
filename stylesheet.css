@@ -4,6 +4,7 @@ body {
 
 li {
   list-style: none;
+  font-size: 36px;
 }
 
 .header {
@@ -59,7 +60,7 @@ li {
 .contents-item p {
   font-size: 20px;
   margin-top: 10px;
-  width: 600px;
+  width: 500px;
 }
 
 .contact-form {
@@ -101,5 +102,3 @@ input, textarea {
 .footer-list li {
   padding-bottom: 20px;
 }
-
-
